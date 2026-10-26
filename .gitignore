@@ -1,0 +1,7 @@
+node_modules/
+android/
+dist/
+*.keystore
+ANDROID_DEBUG_KEYSTORE.txt
+*.keystore.txt
+.vercel
